@@ -1,0 +1,13 @@
+.tab {
+	width: 33%;
+}
+.allImage {
+	height: 30px;
+	width: 30px;
+	display: flex;
+}
+.all-username, .all-status {
+	display: flex;
+	margin-top: 0px;
+	margin-bottom: 8px;
+}
